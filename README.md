@@ -7,16 +7,16 @@
 		###
 
 ## Use case
-	lorem
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ## Project development
-	lorem
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 	
 ## Closest past project
-	lorem 
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 	
 ---
 # ??
 
-- artefacts
-- coding
+- Artefacts
+- Coding
