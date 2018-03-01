@@ -1,16 +1,22 @@
-# 9%
+# ##% [Template — Description]
 
 ## Split
 	client--input 
-		9
+		##
 	mits--output 
-		91
+		###
 
 ## Use case
 	lorem
 
+## Project development
+	lorem
+	
 ## Closest past project
 	lorem 
+	
+---
+# ??
 
-## Project development
-	lorem 
+- artefacts
+- coding
